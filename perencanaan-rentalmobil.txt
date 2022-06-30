@@ -1,5 +1,7 @@
 rental mobil
 
 -persiapan
+  - pembentukan tim
+  - pembuatan proposal
 -inisiasi
 -lauching
